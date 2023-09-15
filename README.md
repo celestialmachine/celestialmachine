@@ -4,9 +4,9 @@
 </div>
 
 ### 👨🏽‍💻 About me
-- #️⃣ I’m most comfortable in C# but I also know TypeScript, and Python.
-- 💻 Working on a web application portfolio focused on ASP.NET.
-- 🅰️ Currently learning Angular and I'm having a blast!
+- #️⃣ I’m at my best in C# but I also know TypeScript and Python.
+- 💻 Currently building web applications with ASP.NET
+- 👨🏽‍💻 Looking for full time work!
 
 > I have been helping people create a digital presence online since 2016. Recently I have returned to school to supplement my skills in design with an education in web application programming and database design. I have done game development as a hobby for many years and I hope to explore the educational potential of game development tools in the future. I'm interested in all things data which is why I love web applications!
 
@@ -34,8 +34,8 @@
   </a>
 
   <h3 align="center">Porfolio:</h3>
-  <a href="https://celestialmachine.com/">
-    <img src="https://img.shields.io/badge/Celestialmachine.com-F72585?logo=html5&logoColor=white&style=for-the-badge">
+  <a href="https://vicdiaz.dev/">
+    <img src="https://img.shields.io/badge/VicDiaz.dev-F72585?logo=html5&logoColor=white&style=for-the-badge">
   </a>
 </div>
 
