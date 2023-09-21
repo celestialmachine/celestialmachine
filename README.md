@@ -32,6 +32,9 @@
   <a href="https://www.instagram.com/corporateaf/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge">
   </a>
+  <a href="https://www.threads.net/@corporateaf">
+    <img src="https://img.shields.io/badge/Threads-000000?logo=Threads&logoColog=white&style=for-the-badge">
+  </a>
 
   <h3 align="center">Porfolio:</h3>
   <a href="https://vicdiaz.dev/">
