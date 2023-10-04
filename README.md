@@ -26,18 +26,18 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestialmachine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <h3 align="center">Social:</h3>
-  <a href="https://www.linkedin.com/in/victor-diaz-30082b134/">
+  <a href="https://www.linkedin.com/in/victor-diaz-30082b134/" target=”_blank”>
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://www.instagram.com/corporateaf/">
+  <a href="https://www.instagram.com/corporateaf/" target=”_blank”>
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://www.threads.net/@corporateaf">
+  <a href="https://www.threads.net/@corporateaf" target=”_blank”>
     <img src="https://img.shields.io/badge/Threads-000000?logo=Threads&logoColog=white&style=for-the-badge">
   </a>
 
   <h3 align="center">Porfolio:</h3>
-  <a href="https://vicdiaz.dev/">
+  <a href="https://vicdiaz.dev/" target=”_blank”>
     <img src="https://img.shields.io/badge/VicDiaz.dev-F72585?logo=html5&logoColor=white&style=for-the-badge">
   </a>
 </div>
