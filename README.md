@@ -1,12 +1,12 @@
 <div align="center">
   <h1>👋 Hi, I'm Victor!</h1>
-  <p>Web application developer specializing in C#/.NET</p>
+  <p>Full Stack Web Developer</p>
 </div>
 
 ### 👨🏽‍💻 About me
 - #️⃣ I’m at my best in C# but I also know TypeScript and Python.
-- 💻 Love to build web applications with ASP.NET
-- 👨🏽‍💻 Currently a software developer at Microsoft Leap!
+- 💻 Love to build web apps
+- 👨🏽‍💻 Currently a software engineer at Microsoft!
 - 🛑 Since I am currently employed, some of my work may be offline. If you have any questions please don't hesitate to reach out.
 
 > I have been helping people create a digital presence online since 2016. Recently I have returned to school to supplement my skills in design with an education in web application programming and database design. I have done game development as a hobby for many years and I hope to explore the educational potential of game development tools in the future. I'm interested in all things data which is why I love web applications!
